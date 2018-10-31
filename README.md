@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular and TypeScript Hello World Project
 
 The Hello World project is an Angular 2+ starter project that has the npm modules, 
@@ -26,3 +27,6 @@ to build Angular components, services, pipes, directives and more.
 1. Run `npm install`
 
 1. Run `ng serve -o`
+=======
+# canvas-test
+>>>>>>> 81f77cd9370adbfa295091ecdf045717a0db5030
